@@ -1,0 +1,27 @@
+.heading{
+    width:100%;
+}
+#big_mario_pic{
+    width:100%;
+}
+body{
+background-image: url("background1.jpg");
+}
+#instructions{
+    float:right
+}
+#title{
+    display:inline;
+}
+#instructions:hover{
+    background:linear-gradient(blue 0%, teal 100%);
+} 
+#footer{
+    position: fixed;
+    background-color: grey;
+    bottom: 0;
+    text-align: center;
+    width:100%;
+    color:whitesmoke;
+    font-size: 15px;
+}
